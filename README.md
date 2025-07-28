@@ -1,2 +1,3 @@
 # fantastic-octo-fishstick
-this is my first git repository
+this is my first git repository.
+Author - Mudit Agarwal
